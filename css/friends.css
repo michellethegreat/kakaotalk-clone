@@ -1,0 +1,48 @@
+.friends__section .friends__section-header {
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+  padding: 10px 15px;
+  font-size: 13px;
+  color: #656565;
+}
+
+.friends__section-row img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.friends__section-rows .friends__section-row {
+  padding: 10px 15px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+.friends__section-column img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.friends__section-column {
+  padding: 10px 15px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+.friends__section-rows.with-tagline {
+  display: flex;
+  justify-content: space-between;
+}
+
+.friends__section-tagline {
+  font-size: 12px;
+  background: #f0f0f0;
+  padding: 10px 10px;
+  border-radius: 5px;
+  color: #939393;
+}
